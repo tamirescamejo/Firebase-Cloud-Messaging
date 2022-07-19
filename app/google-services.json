@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720670394949",
+    "project_id": "casamento-b284c",
+    "storage_bucket": "casamento-b284c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720670394949:android:8233fd6f64277fb3cff12c",
+        "android_client_info": {
+          "package_name": "br.com.zup.casamento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720670394949-989uqrnq1q61d2ng1qll0b54sqn6emef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aiIZ9X2GKtYCqDY2Vi1LqlxZveijhLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720670394949-989uqrnq1q61d2ng1qll0b54sqn6emef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
